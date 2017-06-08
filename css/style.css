@@ -7,14 +7,15 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif;
-    color: #2D3C49;
+    font-family: "Lato", sans-serif;
+    color: #2d3c49;
     font-weight: 300;
 }
 
 .text-muted {
-    color:#7D97AD;
+    color: #7d97ad;
 }
+
 .text-thin {
     font-weight: 100;
 }
@@ -24,12 +25,12 @@ body {
 }
 
 .title-logo {
-   margin-top:20px;
+   margin-top: 20px;
 }
 
 .title-border {
-   margin-top:19px;
-   border-bottom: 2px solid #7D97AD; 
+   margin-top: 19px;
+   border-bottom: 2px solid #7d97ad; 
 }
 
 .upper-buffer {
